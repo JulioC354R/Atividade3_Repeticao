@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "atv3_questao1",
+            "request": "launch",
+            "mainClass": "atv3_questao1",
+            "projectName": "Atividade3_Repeticao_90bd30b8"
+        },
+        {
+            "type": "java",
+            "name": "atv3_questao2",
+            "request": "launch",
+            "mainClass": "atv3_questao2",
+            "projectName": "Atividade3_Repeticao_90bd30b8"
+        },
+        {
+            "type": "java",
+            "name": "atv3_questao3",
+            "request": "launch",
+            "mainClass": "atv3_questao3",
+            "projectName": "Atividade3_Repeticao_90bd30b8"
+        },
+        {
+            "type": "java",
+            "name": "atv3_questao4",
+            "request": "launch",
+            "mainClass": "atv3_questao4",
+            "projectName": "Atividade3_Repeticao_90bd30b8"
+        },
+        {
+            "type": "java",
+            "name": "atv3_questao5",
+            "request": "launch",
+            "mainClass": "atv3_questao5",
+            "projectName": "Atividade3_Repeticao_90bd30b8"
+        },
+        {
+            "type": "java",
+            "name": "atv3_questao6",
+            "request": "launch",
+            "mainClass": "atv3_questao6",
+            "projectName": "Atividade3_Repeticao_90bd30b8"
+        },
+        {
+            "type": "java",
+            "name": "atv3_questao7",
+            "request": "launch",
+            "mainClass": "atv3_questao7",
+            "projectName": "Atividade3_Repeticao_90bd30b8"
+        }
+    ]
+}
